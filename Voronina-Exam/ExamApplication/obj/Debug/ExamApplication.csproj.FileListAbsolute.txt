@@ -1,0 +1,15 @@
+C:\Users\user.UIT\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.exe.config
+C:\Users\user.UIT\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.exe
+C:\Users\user.UIT\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.pdb
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.g.resources
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.exe
+C:\Users\user.UIT\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="ExamApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="369" Width="850">
+    <Grid>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="110,11,0,0" VerticalAlignment="Top"/>
+        <Label Content="Second Name" HorizontalAlignment="Left" Margin="357,8,0,0" VerticalAlignment="Top"/>
+        <Label Content="Class" HorizontalAlignment="Left" Margin="653,6,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="StudentNameTextBox" HorizontalAlignment="Left" Height="23" Margin="10,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="233"/>
+        <TextBox x:Name="StudentSurnameTextBox" HorizontalAlignment="Left" Height="23" Margin="258,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="258"/>
+        <TextBox x:Name="StudentClassYearTextBox" HorizontalAlignment="Left" Height="23" Margin="532,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="184"/>
+        <TextBox x:Name="StudentClassLetterTextBox" HorizontalAlignment="Left" Height="23" Margin="721,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="69"/>
+        <Button Content="Add" HorizontalAlignment="Center" Margin="0,94,0,0" VerticalAlignment="Top" Width="332" Height="49" Click="AddStudent"/>
+        <Button Content="Report" HorizontalAlignment="Center" Margin="0,256,0,0" VerticalAlignment="Top" Width="332" Height="22" Click="MakeReport"/>
+        <TextBox x:Name="ReportPathTextBox" HorizontalAlignment="Center" Height="23" Margin="0,228,0,0" TextWrapping="Wrap" Text="C:\Users\Ckd4\Desktop\12.txt" VerticalAlignment="Top" Width="332"/>
+        <Button Content="Clear" HorizontalAlignment="Center" Margin="0,159,0,0" VerticalAlignment="Top" Width="332" Height="48" Click="ClearStudents"/>
+    </Grid>
+</Window>

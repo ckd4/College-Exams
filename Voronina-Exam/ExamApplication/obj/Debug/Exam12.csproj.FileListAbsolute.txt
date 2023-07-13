@@ -1,0 +1,16 @@
+C:\Users\Ckd4\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.exe.config
+C:\Users\Ckd4\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.exe
+C:\Users\Ckd4\Desktop\exam\ExamApplication\bin\Debug\ExamApplication.pdb
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\Exam12.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\Exam12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\App.g.cs
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication_MarkupCompile.cache
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication_MarkupCompile.lref
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\MainWindow.baml
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.g.resources
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\Exam12.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\Exam12.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.exe
+C:\Users\Ckd4\Desktop\exam\ExamApplication\obj\Debug\ExamApplication.pdb
